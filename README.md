@@ -1,2 +1,2 @@
 # FMT-EXERCISES
- exercicios feitos no fmt
+ Exercicios feitos no fmt
